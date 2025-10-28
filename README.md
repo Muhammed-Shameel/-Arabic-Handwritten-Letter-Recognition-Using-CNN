@@ -24,9 +24,6 @@ Arabic-Letter-Recognition/
 ├── 🧠 model/
 │ └── LastmodelV2.h5 # Final trained CNN model
 │
-├── 📊 dataset/
-│ ├── train/ # Training images
-│ └── test/ # Testing images
 │
 └── 📄 README.md # Project documentation
 
@@ -51,7 +48,7 @@ Arabic-Letter-Recognition/
 🔤 **Classes:** 28 Arabic letters  
 🖼️ **Image Size:** 32 × 32 pixels (Grayscale)  
 ⚙️ **Split:** 80% Training | 20% Testing  
-
+    **Link**: https://www.kaggle.com/datasets/mloey1/ahcd1?select=Arabic+Handwritten+Characters+Dataset+CSV
 ➡️ *Each folder in the dataset contains images labeled by their respective Arabic letter.*
 
 ---
@@ -146,4 +143,5 @@ Commit your changes and open a PR ✨
 Muhammed Shameel
 Machine Learning & Deep Learning Engineer
 📍 Kerala, India
+
 📧 muhammedshameel3009@gmail.com
